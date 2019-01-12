@@ -32,3 +32,4 @@ The source code (everything but the `cv/index.md` file) is licensed under the [M
 ## TODOs
 
 * Change theme
+* Fix font on travis
