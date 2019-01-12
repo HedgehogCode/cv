@@ -1,0 +1,22 @@
+title: Benjamin Wilhelm's CV
+email: benjamin@b-wilhelm.de
+description: >-
+  This website contains the CV of Benjamin Wilhelm.
+url: "https://cv.b-wilhelm.de"
+twitter_username: bewilh
+github_username: HedgehogCode
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _scss
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - LICENSE
+  - README.md
+  - Rakefile
