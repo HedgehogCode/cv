@@ -4,7 +4,7 @@
 
 body {
   font: normal normal 400;
-  font-family: Avenir,Verdana,sans-serif;
+  font-family: CaladeaRegular;
   @media screen {
     font-size: 100%;
     line-height: 1.5em;
@@ -33,7 +33,7 @@ p {
 
 code {
   font: normal normal;
-  font-family: Monaco,Menlo,monospace,sans-serif;
+  font-family: CaladeaRegular;
   font-size: 90%;
   @media screen {
     color: #aaa;
@@ -78,8 +78,9 @@ li ul {
 
 h1,h2,h3,h4 {
   font-weight: 400;
-  font-family: Avenir,Cousine,Verdana,sans-serif;
+  font-family: CaladeaRegular;
   width: 80%;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -144,7 +145,7 @@ a:hover {
   margin-top: 1em;
   position: relative;
   left: 25%;
-  font-family: Monaco,Menlo,monospace,sans-serif;
+  font-family: CaladeaRegular;
   @media screen {
     color: #bc412b;
     font-size: 100%;
