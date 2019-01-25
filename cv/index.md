@@ -9,7 +9,7 @@ Benjamin Wilhelm
 Computer Scientist
 
 <div id="webaddress">
-  <a href="https://b-wilhelm.de"> b-wilhelm.de </a>
+  <a href="https://b-wilhelm.de"> https://b-wilhelm.de </a>
 | <a href="http://github.com/HedgehogCode"> GitHub: HedeghogCode </a>
 <span class="no-print">| <a href="/cv_benjamin_wilhelm.pdf"> PDF Version</a></span>
 </div>
