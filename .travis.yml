@@ -9,6 +9,16 @@ branches:
   - master
   - release
 
+before_install:
+- sudo apt-get install -y xfonts-75dpi xfonts-base
+- wget https://downloads.wkhtmltopdf.org/0.12/0.12.5/wkhtmltox_0.12.5-1.trusty_amd64.deb
+- sudo dpkg -i wkhtmltox_0.12.5-1.trusty_amd64.deb
+
+install:
+- gem uninstall bundler
+- gem install bundler --version '2.0.1'
+- bundle install --path vendor/bundle
+
 script: "bundle exec rake"
 
 deploy:
