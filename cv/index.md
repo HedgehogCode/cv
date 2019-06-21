@@ -75,7 +75,7 @@ Skills
 ------
 
 Very familiar with
-- Java, Eclipse, Git, Linux, Python
+- Java, Eclipse, Git, Linux, Python, Scrum
 
 Familiar with
 - MATLAB, C, C++, Bash, Travis CI, LaTeX
