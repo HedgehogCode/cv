@@ -51,9 +51,13 @@ Work Experience
 
 Education
 ---------
+**M.S. in Computer and Information Science, University of Konstanz** (Konstanz, Germany)
+`Oct 2019 - Present`
+
+- Focus on computer vision and machine learning
 
 **B.S. in Computer Science, University of Konstanz** (Konstanz, Germany)
-`Oct 2014 - Present`
+`Oct 2014 - Oct 2019`
 
 - All basic courses (Math classes, Programming courses, Database systems, Algorithmics, Theoretical Computer Science, ...)
 - Mechanics in Physics
@@ -64,6 +68,7 @@ Education
 - Machine Learning using MATLAB
 - Frequent Pattern Mining
 - Advanced Data Challenge (Ranked 7th in the Freesound General-Purpose Audio Tagging Challenge on Kaggle)
+- Bachelor's thesis about segmentation of microscope image data
 
 **High-school diploma, Erich-Hauser-Gewerbeschule** (Rottweil, Germany)
 `Sep 2011 - Jul 2014`
