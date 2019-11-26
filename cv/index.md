@@ -69,6 +69,7 @@ Education
 - Frequent Pattern Mining
 - Advanced Data Challenge (Ranked 7th in the Freesound General-Purpose Audio Tagging Challenge on Kaggle)
 - Bachelor's thesis about segmentation of microscope image data
+- Overall grade "with distinction"
 
 **High-school diploma, Erich-Hauser-Gewerbeschule** (Rottweil, Germany)
 `Sep 2011 - Jul 2014`
