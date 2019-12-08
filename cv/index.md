@@ -70,6 +70,7 @@ Education
 - Advanced Data Challenge (Ranked 7th in the Freesound General-Purpose Audio Tagging Challenge on Kaggle)
 - Bachelor's thesis about segmentation of microscope image data
 - Overall grade "with distinction"
+- Received the VEUK Award ("Preis des Vereins der Ehemaligen der Universität Konstanz (VEUK e.V.)")
 
 **High-school diploma, Erich-Hauser-Gewerbeschule** (Rottweil, Germany)
 `Sep 2011 - Jul 2014`
