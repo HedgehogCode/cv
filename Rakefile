@@ -20,7 +20,8 @@ task :build_pdf => [:build_webpage] do
   begin
     options = {
       :page_size => 'A4',
-      :print_media_type => true
+      :print_media_type => true,
+      :quiet => false
     }
     kit = PDFKit.new(File.new('./_site/index.html'), options)
     file = kit.to_file('./_site/cv_benjamin_wilhelm.pdf')

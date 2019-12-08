@@ -55,19 +55,17 @@ Education
 `Oct 2019 - Present`
 
 - Focus on computer vision and machine learning
+- Image Analysis and Computer Vision I and II
+- Seminar about Recent Developments in Deep Learning
 
 **B.S. in Computer Science, University of Konstanz** (Konstanz, Germany)
 `Oct 2014 - Oct 2019`
 
-- All basic courses (Math classes, Programming courses, Database systems, Algorithmics, Theoretical Computer Science, ...)
-- Mechanics in Physics
-- Mathematical Logic
-- Image Analysis and Computer Vision I and II
+- All basic courses
+- Mechanics in Physics and Mathematical Logic
+- Specialization in Data Mining and Computer Vision
+- Ranked 7th in the Freesound General-Purpose Audio Tagging Challenge on Kaggle as part of the Lecture "Advanced Data Challenge"
 - Seminar about Energy Minimization Methods in Computer Vision
-- Artificial Neural Networks and Deep Learning
-- Machine Learning using MATLAB
-- Frequent Pattern Mining
-- Advanced Data Challenge (Ranked 7th in the Freesound General-Purpose Audio Tagging Challenge on Kaggle)
 - Bachelor's thesis about segmentation of microscope image data
 - Overall grade "with distinction"
 - Received the VEUK Award ("Preis des Vereins der Ehemaligen der Universität Konstanz (VEUK e.V.)")
